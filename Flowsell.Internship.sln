@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flowsell.Internship.LinqTask", "Flowsell.Internship.LinqTask\Flowsell.Internship.LinqTask.csproj", "{26282C29-47B3-4DF0-94D8-040E94483E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flowsell.Internship.LinqTask.Tests", "Flowsell.Internship.LinqTask.Tests\Flowsell.Internship.LinqTask.Tests.csproj", "{293D071D-97BB-4E04-88A2-9A796E440EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26282C29-47B3-4DF0-94D8-040E94483E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26282C29-47B3-4DF0-94D8-040E94483E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26282C29-47B3-4DF0-94D8-040E94483E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26282C29-47B3-4DF0-94D8-040E94483E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293D071D-97BB-4E04-88A2-9A796E440EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293D071D-97BB-4E04-88A2-9A796E440EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293D071D-97BB-4E04-88A2-9A796E440EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293D071D-97BB-4E04-88A2-9A796E440EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
